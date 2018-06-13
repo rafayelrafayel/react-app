@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import {connect} from 'react-redux';
-import Products from './Products';
+import Products from '../components/Products';
+
 
 class Home extends Component {
     render() {
